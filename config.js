@@ -14,7 +14,7 @@ import { ar, en, es, id, pt } from './lib/idiomas/total-idiomas.js'
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 '5214531287294', 
-'593968263524',
+'593968263524', 
 '5492916450307',
 '51994729892',
 '5215539356057'
